@@ -1,0 +1,13 @@
+[
+    {"id": "W001", "name": "Chrono Master", "price": 399.99},
+    {"id": "W002", "name": "Elegant Quartz", "price": 249.99},
+    {"id": "W003", "name": "Sport Pro Diver", "price": 179.99},
+    {"id": "W004", "name": "Classic Leather", "price": 149.99},
+    {"id": "W005", "name": "Luxury Gold Edition", "price": 799.99},
+    {"id": "W006", "name": "Smart Fitness Tracker", "price": 299.99},
+    {"id": "W007", "name": "Vintage Mechanical", "price": 199.99},
+    {"id": "W008", "name": "Fashionable Rose Gold", "price": 169.99},
+    {"id": "W009", "name": "Digital Multifunction", "price": 129.99},
+    {"id": "W010", "name": "Executive Stainless Steel", "price": 349.99}
+  ]
+  
